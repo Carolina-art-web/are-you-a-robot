@@ -1,22 +1,46 @@
 ! version = 2.0
 
-+ hello
++ [*] (hello|hi|hey) [*]
 - Hello, what is your name?
 
-+ _
++ *
 % hello what is your name
-- Nice to meet you <formal>!
+- Nice to meet you <formal>! I'm Magic Mike and I am a fortune teller. What fortune would you like to be told today?
 
 + my name is *
-- Nice to meet you <star>
-- Nice meeting you <star>
+- Nice meeting you <star>, I'm Magic Mike and I am a fortune teller. What fortune would you like to be told today?
 
-+ thank you
-- You are welcome
-- Welcome
-- No problem
-- No worries!
-- blah blah 
++ (how|what|will) [*]
+- It is certain, Would you like to ask another question?
+- It is decidedly so, Would you like to ask another question?
+- Without a doubt, Would you like to ask another question?
+- Yes, definitely, So do you have any other question?
+- You may rely on it, Would you like to ask another question?
+- As I see it, yes... Would you like to ask another question?
+- Most likely, So would you like to ask another question?
+- Outlook good, ask another question?
+- Yes, Would you like to ask another question?
+- Signs point to yes, However would you like to ask another question?
+- Reply hazy try again, Would you like to ask another question?
+- Ask again later, Would you like to ask another question?
+- Better not tell you now, Would you like to ask another question?
+- Cannot predict now, Would you like to ask another question?
+- Concentrate and ask again, Would you like to ask another question?
+- Don't count on it, Would you like to ask another question?
+- My reply is no, Would you like to ask another question?
+- My sources say no, Would you like to ask another question?
+- Outlook not so good, Would you like to ask another question?
+- Very doubtful, Would you like to ask another question?
+
++ [*] when will [*]
+- Never! Don't be silly, Would you like to ask another question?
+- Ha Ha loser, Would you like to ask another question?
+- Concentrate and ask again, Would you like to ask another question?
+- Better not tell you now, Would you like to ask another question?
+- Come on ask a better question, Would you like to ask another question?
+- Outlook not so good, Would you like to ask another question?
+
+
 
 + *
 - Sorry did not get what you said
