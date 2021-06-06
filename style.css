@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
+@import url("https://fonts.google.com/specimen/Abril+Fatface?category=Serif,Display&preview.text=Magic%20Mike&preview.text_type=custom#standard-styles");
 
 * {
-  font-family: "Inter", Arial;
+  font-family: "Abril Fatface";
   font-size: 12pt;
   margin: 0;
   box-sizing: border-box;
@@ -12,7 +12,8 @@ body {
 }
 
 .title {
-  height: 5vh;
+  font-family: "Abril Fatface";
+  height: 10vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -21,6 +22,7 @@ body {
 .title h1 {
   letter-spacing: 0.75px;
   color: rgb(255, 255, 255);
+  font-size: 20pt;
 }
 
 .wrapper {
@@ -28,7 +30,6 @@ body {
 }
 
 .chat {
-  background: rgba(255, 255, 255, 0);
   box-shadow: 10px 10px 0px rgba(255, 255, 255, 0);
   height: 100%;
   display: flex;
@@ -60,6 +61,7 @@ body {
 }
 
 .messages .bot {
+  font-family: "Roboto Medium", sans-serif;
   text-align: left;
   margin-right: auto;
   background: black;
@@ -67,6 +69,7 @@ body {
 }
 
 .messages .self {
+  font-family: "Roboto Medium", sans-serif;
   text-align: right;
   margin-right: 20px;
   margin-left: auto;
