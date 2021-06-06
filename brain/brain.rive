@@ -40,6 +40,15 @@
 - Come on ask a better question, Would you like to ask another question?
 - Outlook not so good, Would you like to ask another question?
 
++ [*] no [*]
+- Okay, I'm glad i could tell you your fortune today!
+
++ [*] yes [*]
+- Okay, what else would you like to know?
+
++ [*] (goodbye|bye) [*]
+- Goodbye!
+
 + *
 - Sorry did not get what you said
 - I am afraid that I can not understand you
